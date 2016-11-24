@@ -1,0 +1,118 @@
+nav li,a{
+	display:inline;
+	text-decoration: none;
+	font-family: 'Indie Flower', cursive;
+
+	font-size: 18px;
+	color:#393939;
+	margin-top: 30px;
+
+}
+nav li a:hover{
+	color:black;
+}
+nav ul {
+	margin-top: 20px;
+}
+header h1,img{
+	margin-top: 20px;
+	font-family: 'Indie Flower', cursive;
+
+	color: #BC6363;
+	text-transform: uppercase;
+}
+
+
+.content p{
+	font-family: 'Josefin Slab', serif;
+	color: black;
+	font-size: 22px;
+
+}
+header{
+	background-color: #EB8D8D;
+	position: fixed;
+
+}
+.main{
+	padding-top: 80px;
+}
+section img{
+	width: 300px;
+	height: 250px;
+}
+.image1{
+	width: 450px;
+	height: 450px;
+}
+
+.hero{
+	margin-top: 10px;
+	margin-left: 50px;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 0px;
+	font-family: 'Nunito', sans-serif;
+}
+.image{
+	padding-top: 0px;
+	margin-left: -10px;
+	margin-right: 50px;
+	min-width: 960px;
+	height:400px;
+}
+
+.grid_6{
+	padding-top: 30px;
+}
+.info img{
+	width: 460px;
+	height:460px;
+}
+.info{
+	
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+}
+.foot{
+	background-color:#36568D; 
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+
+}
+.foot img{
+	width:30px;
+	height: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-bottom: 20px;
+
+}
+
+section p{
+	padding-top: 0px;
+	font-family: monospace;
+}
+section h2{
+	font-family: 'Montserrat';
+}
+.cont:after{
+	content: ')'
+}
+.cont:before{
+	content: '('
+}
+.cont{
+	float: right;
+	margin-right: 50px;
+	font-family: 'Montserrat';
+}
+.wrap{
+	background-image: url("http://cdn.wallpapersafari.com/41/38/IFJfVU.jpg");
+	background-repeat: repeat;
+}
+.txt{
+	font-family: 'Josefin Slab', serif;
+	font-size: 17px;
+	color: black;
+}
